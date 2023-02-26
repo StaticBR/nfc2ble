@@ -1,5 +1,5 @@
 # NFC 2 BLE
-Is a small software that reads and RFID chip and forwards the UID by emulating an bluetooth keyboard (HID).
+Is a small software that reads and NFC / RFID chip and forwards the UID by emulating an bluetooth keyboard (HID).
 
 This allows for simple RFID scans to many hardware as tablets or laptops.
 
